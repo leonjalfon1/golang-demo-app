@@ -7,10 +7,10 @@
 - To simplify the use of the application the UI provides a button to redirect you to the "hello" api and a form to make a post request from the page itself
 - The application takes the index.html file from a fixed path located in "/web/static/index.html"
 
-## Building 
+## Build
 
 TBD
 
-## Running 
+## Deploy 
 
 TBD
